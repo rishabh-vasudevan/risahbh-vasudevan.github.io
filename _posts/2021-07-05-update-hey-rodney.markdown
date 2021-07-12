@@ -2,7 +2,6 @@
 layout: post
 title:  "Update for Hey Rodney wake word detection "
 date:   2021-07-12 08:00:25 +0530
-categories: jekyll update
 ---
 As the first evaluation is coming close and it starts in less than a week. I decided to give an update of what is the position of the project
 
