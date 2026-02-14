@@ -8,5 +8,5 @@ These Blogs are usually written in short burst where I write down thoughts. My t
 
 Hope you like, if you don't that's also fine.
 
-You can find my github account at:
+You can find my GitHub account at:
 [rishabh-vasudevan](https://github.com/rishabh-vasudevan)
