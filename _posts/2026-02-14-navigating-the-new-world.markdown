@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Navigating the New World"
-date:   2025-02-14 14:00:00 +0530
+date:   2026-02-14 14:00:00 +0530
 ---
 
 I am coming back after a long time. A lot has happened since my last blog. I finished college and since then have been working in the blockchain domain. Large language models became a reality around 3 years back, and they have been getting better since then. These models went from not able to import a single library correctly to being able to help with math research at the frontier.
