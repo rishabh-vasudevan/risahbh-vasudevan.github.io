@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Anti Framework: The New Norm?"
-date:   2025-02-15 02:30:00 +0530
+date:   2026-02-15 02:30:00 +0530
 ---
 
 The only reason humans ended up making frameworks for software engineering tasks, was that it seemed to be a effective way for reducing the boiler plate code that used to consume tons of developer time. But now since AI is this generator that is trained on code and can generate code. The special thing about code is that it is verifiable by the help of compilers, the architecture and coding sense is much harder to optimize (although there might be ways, where you give higher weight to code in repositories that have a high number of starts).
